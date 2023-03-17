@@ -1,2 +1,9 @@
 /* prettier-ignore */
 /*# sourceMappingURL=user.css.map */
+#preloader{
+    background:000;
+    height:00vh;
+    width:100%;
+    position:fixed;
+    z-index: 100;
+}
